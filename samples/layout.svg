@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="323.5" height="174" viewBox="0 0 323.5 174">
+  <g id="Group_1" data-name="Group 1" transform="translate(-15 -396)">
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(38 417)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="300" height="153" stroke="none"/>
+      <rect x="0.5" y="0.5" width="299" height="152" fill="none"/>
+    </g>
+    <g id="Rectangle_6" data-name="Rectangle 6" transform="translate(135 417)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="105" height="153" stroke="none"/>
+      <rect x="0.5" y="0.5" width="104" height="152" fill="none"/>
+    </g>
+    <line id="Line_1" data-name="Line 1" x2="300" transform="translate(38.5 493.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="_0" data-name="0" transform="translate(88 410)" fill="#707070" font-size="21" font-family="Calibre-Regular, Calibre"><tspan x="-5.649" y="0">0</tspan></text>
+    <text id="_0-2" data-name="0" transform="translate(21 465)" fill="#707070" font-size="21" font-family="Calibre-Regular, Calibre"><tspan x="-5.649" y="0">0</tspan></text>
+    <text id="_2" data-name="2" transform="translate(289 410)" fill="#707070" font-size="21" font-family="Calibre-Regular, Calibre"><tspan x="-4.799" y="0">2</tspan></text>
+    <text id="_1" data-name="1" transform="translate(188 410)" fill="#707070" font-size="21" font-family="Calibre-Regular, Calibre"><tspan x="-3.454" y="0">1</tspan></text>
+    <text id="_1-2" data-name="1" transform="translate(21 539)" fill="#707070" font-size="21" font-family="Calibre-Regular, Calibre"><tspan x="-3.454" y="0">1</tspan></text>
+    <rect id="Rectangle_7" data-name="Rectangle 7" width="202" height="153" transform="translate(38 417)" fill="rgba(255,0,0,0.3)"/>
+    <g id="Rectangle_8" data-name="Rectangle 8" transform="translate(240 417)" fill="rgba(0,10,255,0.17)" stroke="#707070" stroke-width="1">
+      <rect width="98" height="77" stroke="none"/>
+      <rect x="0.5" y="0.5" width="97" height="76" fill="none"/>
+    </g>
+    <g id="Rectangle_9" data-name="Rectangle 9" transform="translate(240 493)" fill="rgba(10,255,0,0.17)" stroke="#707070" stroke-width="1">
+      <rect width="98" height="77" stroke="none"/>
+      <rect x="0.5" y="0.5" width="97" height="76" fill="none"/>
+    </g>
+    <text id="DATA_POINT_1" data-name="DATA POINT 1" transform="translate(38 484)" font-size="21" font-family="Calibre-Regular, Calibre"><tspan x="42.347" y="14">DATA POINT 1</tspan></text>
+    <text id="DATA_POINT_1-2" data-name="DATA POINT 1" transform="translate(38 484)" font-size="21" font-family="Calibre-Regular, Calibre"><tspan x="42.347" y="14">DATA POINT 1</tspan></text>
+    <text id="DATA_POINT_2" data-name="DATA POINT 2" transform="translate(240 430)" font-size="21" font-family="Calibre-Regular, Calibre"><tspan x="25.543" y="14">DATA </tspan><tspan x="14.781" y="43">POINT 2</tspan></text>
+    <text id="DATA_POINT_3" data-name="DATA POINT 3" transform="translate(240 506)" font-size="21" font-family="Calibre-Regular, Calibre"><tspan x="25.543" y="14">DATA </tspan><tspan x="14.749" y="43">POINT 3</tspan></text>
+  </g>
+</svg>
