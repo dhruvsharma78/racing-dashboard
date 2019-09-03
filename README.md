@@ -2,6 +2,8 @@
 
 An arduino based customizable dashboard controller that displays vital car information on a dashboard screen.
 
+This project uses the u8g2 library
+
 The system allows you to create custom data points and display them using a simple 2x3 grid based layout
 
 Items can be positioned using the whole grid, 1/2 of any axis, or evem 1/3 or 2/3 of the horizontal axis.
@@ -10,6 +12,8 @@ This means that you can display a total of 6 datapoints on one screen.
 Sample view:
 
 ![alt text][sample-view]
+
+Text alignment and scaling is automatically taken carre of! Just provide the fonts you wish to use in the `constants.h` file, with `FONT_1` being the smallest and `FONT_5` the largest
 
 This controller also supports multiple screens that can be accessed in any way desired. This means that you can create multiple views designed for different situations and use it whenever needed.
 
